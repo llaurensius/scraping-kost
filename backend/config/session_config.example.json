@@ -1,0 +1,32 @@
+{
+  "headers": {},
+  "cookies": {},
+  "api_keys": [
+    "YOUR_MAMIKOS_API_KEY_HERE"
+  ],
+  "xsrf_tokens": [
+    "YOUR_XSRF_TOKEN_HERE"
+  ],
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+  ],
+  "git_times": [
+    "1406090202"
+  ],
+  "sendbird": {
+    "app_id": "0A773759-C815-4D58-8ABB-FFA5D6BD1B2B",
+    "session_key": ""
+  },
+  "aes_cipher": {
+    "key": "39c852d0d0bc42ef83f7d3d708f42368",
+    "iv": "5df5a10ebb035097"
+  },
+  "endpoints": {
+    "search_list": "https://mamikos.com/garuda/stories/list?v=2&with_thematic_badge=true",
+    "user_check": "https://mamikos.com/web_api/v3/user/name-check",
+    "tracker_active": "https://mamikos.com/web_api/v3/tracker-session/active",
+    "chat_pretext": "https://mamikos.com/garuda/chat-pretext",
+    "chat_reply": "https://mamikos.com/garuda/stories/{id}/chat/reply",
+    "room_page": "https://mamikos.com/room/{slug}"
+  }
+}

@@ -1,0 +1,30 @@
+export const FAC_ROOM = [
+  { id: 1, name: 'K. Mandi Dalam' },
+  { id: 13, name: 'AC' },
+  { id: 10, name: 'Kasur' },
+  { id: 2, name: 'Kloset Duduk' },
+  { id: 8, name: 'Air panas' },
+  { id: 11, name: 'Lemari / Storage' },
+  { id: 14, name: 'Meja' },
+  { id: 17, name: 'Kursi' },
+  { id: 742, name: 'Wifi' },
+  { id: 12, name: 'TV' },
+  { id: 58, name: 'Kipas Angin' },
+  { id: 648, name: 'Jendela' },
+  { id: 84, name: 'Termasuk listrik' },
+];
+
+export const FAC_SHARE = [
+  { id: 15, name: 'WiFi' },
+  { id: 22, name: 'Parkir Mobil' },
+  { id: 23, name: 'Parkir Motor' },
+  { id: 27, name: 'Dapur' },
+  { id: 31, name: 'Mesin Cuci' },
+  { id: 32, name: 'Penjaga Kos' },
+  { id: 35, name: 'Laundry' },
+  { id: 41, name: 'Mushola' },
+  { id: 42, name: 'Kulkas' },
+  { id: 43, name: 'Dispenser' },
+  { id: 45, name: 'TV' },
+  { id: 50, name: 'R. Keluarga' },
+];

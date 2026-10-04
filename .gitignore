@@ -1,0 +1,43 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Node / Frontend dependencies & build
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Logs & Temporary files (termasuk lock file Excel ~$*)
+*.log
+*.tmp
+~$*
+~$*.xlsx
+
+# HAR / Network capture logs
+har/
+*.har
+
+# Database & Scraped output
+*.db
+backend/data/*.db
+*.xlsx
+
+# Sensitive session / credentials
+.env
+.env.local
+backend/config/session_config.json
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
